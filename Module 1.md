@@ -63,9 +63,13 @@ In the 1940s, Wiener and others introduced a new model of mind called cybernetic
 3. Thinking is the adaptation of future conduct based on evaluation of past performance.
 
 Finally, it is worth mentioning the behaviourist model of cognition, according to which we cannot make any scientific claims about knowledge, mind, or thinking.
+
 The 1940s also saw the invention of electronic computers and the introduction of general theories of computation.
-What was the original imitation game? By Alan Turing
+
+<b>What was the original imitation game? By Alan Turing</b>
+
 Game played by 3 people i.e a man(A), a woman(B), and an interrogator(C) who may be of either sex. The interrogator stays in a different room that the other two. The objective of the game is for the interrogator to determine which of the two is the man and which is the woman. He knows them by the labels X and Y, and he's allowed to ask them questions to help him achieve his objective. A sample question can be "Can X tell me what the exact length of their hair is?". Suppose X is actually A, so A will answer. A's objective in this game is to try and cause C to make the wrong identification. Throughout the game, the answers aern't spoken. Instead, they're handwritten, or better yet, typewritten to conceal any hints. The objective of B is to help the interrogator arrive at the correct identification. So they'll try to give the correct answers. She could say something like "I'm the woman!", but this wouldn't be too helpful since the man can make similar claims.
+
 Turing asked the question "What would happen if a machine was to replace A's role?" How would the outcome of the game vary? Would the interrogator be able to differentiate between who's the computer and who's the human? This leads us to the question of whether machines can think.
 
 
