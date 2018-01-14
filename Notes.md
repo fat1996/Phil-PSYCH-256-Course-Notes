@@ -3,8 +3,8 @@ Disclaimer:
 The following(copied word for word) is from the lecture slides created in the online version of PHIL/PSYCH 256 by the University of Waterloo.
 I donot own any of this content.
 
-Module 1
-: Introduction
+<b>Module 1</b>
+Introduction <br>
 1. Cognitive Science: study of mind and intelligence
 2. The Central Thesis of Cognitive Science is that thinking is like computation.
 3. It is the claim that thinking, especially the thinking involved in intelligence, is analogous to the computations performed by a digital computer. 
@@ -83,5 +83,8 @@ Turing's answer is that although we might each reasonably conclude that we think
 4. The fourth objection is from Lady Lovelace.
 Lady Lovelace was a patron of Charles Babbage, who worked on building a mechanical computer called the Analytical Engine in the mid 19th century. Lady Lovelace noted that the Engine had no pretension to originality; it would do only whatever Babbage programmed it to do. Of course, as Turing points out, it may simply not have had the capacity to do anything original. It might be that a digital computer with greater capacity could display the originality that was lacking in the Analytical Engine.
 
+Questions/concerns raised by the Turing test:
+First, Turing deemphasizes the physical composition of the computer as a factor in assessing its intelligence and thinking ability. Turing holds that it is merely a historical accident that terms like "thinking" and "intelligence" are applicable only to humans or at least biological organisms. Had sophisticated digital computers been around since day one, we might well naturally ascribe thought and intelligence to them.
+His paper contains a section (that we have not discussed) on how a computer might learn its knowledge from experience.
 
 
