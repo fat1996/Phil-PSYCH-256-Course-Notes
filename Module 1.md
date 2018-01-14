@@ -1,6 +1,6 @@
-<b>Course taken: Winter 2018</b>
+<b>Course taken: Winter 2018</b><br>
 Disclaimer:
-The following(copied word for word) is from the lecture slides created in the online version of PHIL/PSYCH 256 by the University of Waterloo.
+The following (copied word for word in most cases) is from the lecture slides created in the online version of PHIL/PSYCH 256 by the University of Waterloo.
 I donot own any of this content.
 
 <b>Module 1</b><br>
@@ -9,6 +9,7 @@ Introduction <br>
 2. The Central Thesis of Cognitive Science is that thinking is like computation.
 3. It is the claim that thinking, especially the thinking involved in intelligence, is analogous to the computations performed by a digital computer. 
 4. Instead, the Central Thesis is more like what the philosopher of science Thomas Kuhn called a paradigm. In Kuhn's view a scientific paradigms fulfills at least the following functions:
+
 	-It tells researchers what sorts of phenomena to investigate (and what sort to ignore),
 	-It tells them what sorts of theories to test (and what sort not to test), and
 	-It tells them how to perform the tests (and how not to).
