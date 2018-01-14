@@ -68,6 +68,20 @@ Control: a set of instructions that tells the executive unit what calculations t
 We could conclude that the intelligence of the computer, its ability to think, is a fact about the program and not a fact about the physical machine involved.
 Some objections to the question of the ability of computers to think and Turing's responses to them:
 1. The first objection is the theological objection.
+Argument: thinking requires a soul, computers have no souls, so computers cannot think
+Turing's reply: it only follows that computers do not think
+Being omnipotent, God could give souls to computers, enabling them to think
+
 2. The second objection is the mathematical objection.
+The mathematical objection relies on some results of the theory of logic and computation. The idea behind this objection is that here is a question that a human can answer but that a given computer cannot.
+Turing's reply: there may be such questions for any given human.Turing replies, correctly, that we have no assurance that there is no such question that someone could ask that we cannot answer.
+
 3. The third objection is the consciousness objection.
+The argument from consciousness holds that we cannot say that something thinks unless we know that it has conscious experiences.
+Turing's answer is that although we might each reasonably conclude that we think and have phenomenological experiences, we cannot know that anyone else does. After all, my knowledge of these experiences is first-hand, and I have no such access to the mental lives of any of you. So, for all I know, I may be the only conscious being there is. And each of you might argue the same for yourselves. The view that one's own mind is the only thinking thing in existence is known as solipsism.
+
 4. The fourth objection is from Lady Lovelace.
+Lady Lovelace was a patron of Charles Babbage, who worked on building a mechanical computer called the Analytical Engine in the mid 19th century. Lady Lovelace noted that the Engine had no pretension to originality; it would do only whatever Babbage programmed it to do. Of course, as Turing points out, it may simply not have had the capacity to do anything original. It might be that a digital computer with greater capacity could display the originality that was lacking in the Analytical Engine.
+
+
+
