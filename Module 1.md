@@ -11,25 +11,37 @@ Introduction <br>
 4. Instead, the Central Thesis is more like what the philosopher of science Thomas Kuhn called a paradigm. In Kuhn's view a scientific paradigms fulfills at least the following functions:
 
 	-It tells researchers what sorts of phenomena to investigate (and what sort to ignore),
+
 	-It tells them what sorts of theories to test (and what sort not to test), and
+
 	-It tells them how to perform the tests (and how not to).
 
 Now we can see how the Central Thesis acts as a paradigm for Cognitive Science:
+
 	-It tells researchers to investigate intelligent behaviours.
+
 	-It tells them to theorize about mental representations and procedures.
+
 	-It tells them to test theories using computational models, experiments, etc.
 
 In Classic Cognitive Science, intelligent thinking is any thinking in which knowledge or expertise plays a major role.
+
 Intelligence is knowledge-intensive: you need lots of knowledge to be intelligent, and the more knowledge you have, the more intelligent your behaviour will be.
+
 Mental representations: some statements that describe where objects are in relation to each other. for eg, to remember a set of blocks that are stacked on top of each other. the set of statements that help us remember where the blocks are in relation to each other is called a mental representation.
+
 Mental procedures are methods that our minds possess for manipulating mental representations of knowledge in order to achieve certain outcomes.
 suppose we're given a set of blocks labelled with letters of the alphabet and we're asked to spell the word 'cat'. to do this, we'll come up with a plan to organize the blocks accordingly.
-For now, the point is simply that we can think of mental representations and procedures as ways in which knowledge is packaged and applied in our minds.
-In Cognitive Science, a theory is a model or explanation for how it is that people act intelligently in a given situation. More specifically, a theory in Cognitive Science makes claims about what mental representations are active in the situation and what mental procedures are used to apply the representations.
-This approach to theory assessment is common in Cognitive Science and is generally referred to as cognitive modeling. That is, the operation of the computer program models or imitates the course of human thinking. The model is successful to the extent that it can reproduce the human behaviour that it is supposed to mimic.
-The Central Thesis of Cognitive Science is that thinking is like computation on a digital computer. This thesis is called CRUM (Computational Representational Understanding of Mind) by Thagard. This thesis does not imply that your brain physically resembles a digital computer of the sort sitting on your desktop in your room. Instead, it asserts that just as computation in a digital computer is a matter of programs manipulating data representations, human cognition is to be understood as a process in which mental representations of information are manipulated by mental procedures of some sort.
 
-Prehistory
+For now, the point is simply that we can think of mental representations and procedures as ways in which knowledge is packaged and applied in our minds.
+
+In Cognitive Science, a theory is a model or explanation for how it is that people act intelligently in a given situation. More specifically, a theory in Cognitive Science makes claims about what mental representations are active in the situation and what mental procedures are used to apply the representations.
+
+This approach to theory assessment is common in Cognitive Science and is generally referred to as cognitive modeling. That is, the operation of the computer program models or imitates the course of human thinking. The model is successful to the extent that it can reproduce the human behaviour that it is supposed to mimic.
+
+The Central Thesis of Cognitive Science is that thinking is like computation on a digital computer. This thesis is called <b>CRUM</b> (Computational Representational Understanding of Mind) by Thagard. This thesis does not imply that your brain physically resembles a digital computer of the sort sitting on your desktop in your room. Instead, it asserts that just as computation in a digital computer is a matter of programs manipulating data representations, human cognition is to be understood as a process in which mental representations of information are manipulated by mental procedures of some sort.
+
+<b>Prehistory</b>
 The ancient Greeks, e.g., Plato and Aristotle, laid out the questions (and some of the sorts of answers) that cognitive scientists continue to pursue. The main questions are:
 1. What do you know and how do you know it? (epistemology)
 2. What kind of thing is a mind? (metaphysics)
